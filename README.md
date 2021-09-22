@@ -1,5 +1,6 @@
 # zhijks20020630.github.io
 
-[夜景](view.jpg)
+[天空](sky.jpg)
 
-![夜景](view,jpg)
+![天空](sky.jpg)
+
